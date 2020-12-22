@@ -1,0 +1,50 @@
+{
+  "lang":"en",
+  "pipeline":[
+    "ner"
+  ],
+  "spacy_version":">=2.3.4",
+  "speed":{
+    "nwords":914,
+    "cpu":13588.6173653208,
+    "gpu":null
+  },
+  "accuracy":{
+    "ents_f":28.5714285714,
+    "ents_p":40.9090909091,
+    "ents_r":21.9512195122,
+    "ents_per_type":{
+      "Beer Style":{
+        "p":100.0,
+        "r":35.7142857143,
+        "f":52.6315789474
+      },
+      "Feature":{
+        "p":25.0,
+        "r":16.0,
+        "f":19.512195122
+      },
+      "Location":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      }
+    },
+    "token_acc":100.0
+  },
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":"spacy_pretrained_vectors"
+  },
+  "name":"model0",
+  "version":"1",
+  "labels":{
+    "ner":[
+      "Beer Style",
+      "Feature",
+      "Location"
+    ]
+  }
+}
