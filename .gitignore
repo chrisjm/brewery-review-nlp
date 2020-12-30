@@ -77,6 +77,10 @@ target/
 
 # Exclude raw data
 /data/raw
+/data/annotations/test
+
+# Exclude models
+/models/*
 
 # Mac OS-specific storage files
 .DS_Store
