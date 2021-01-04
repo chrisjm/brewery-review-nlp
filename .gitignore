@@ -78,6 +78,7 @@ target/
 # Exclude raw data
 /data/raw
 /data/annotations/test
+/data/processed/brewery_reviews.csv
 
 # Exclude models
 /models/*
