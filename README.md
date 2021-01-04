@@ -185,6 +185,8 @@ This project used the open-source tool Doccano to assist with annotating reviews
 * Setting, importing and exporting NER labels
 * Importing and exporting annotations via JSONL
 
+![Screenshot of Doccano](reports/figures/screenshot-doccano-1.png)
+
 ### Annotation Lessons Learned
 
 * Consistent and correct annotations are more critical than the number of annotations. The shorter the highlighted "chunk," the better.
@@ -266,6 +268,8 @@ Finally, the following are the results of training blank and existing models wit
 | NER F |52.52 |**61.07** | 60.81
 
 As shown in the table, the small model performs slightly better with recall and the F1 score, while the medium model performs marginally better with precision. Both do much better than the blank model.
+
+![Screenshot of displaCy test](reports/figures/screenshot-displacy-1.png)
 
 ### Final Model
 
