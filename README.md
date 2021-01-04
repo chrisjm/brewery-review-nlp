@@ -2,7 +2,15 @@
 
 ![Brewery Review Word Cloud](reports/figures/word-cloud-beer-mug.png)
 
-## Final Capstone Project for Springboard Data Science Career Track - March 2020 Cohort
+## Springboard Data Science Career Track - Final Capstone Project
+
+_Cohort: March 2020_
+
+* [🖼 Slides](reports/Brewery%20Review%20NLP%20-%20Springboard%20Data%20Science%20-%20Final%20Capstone.pdf)
+* [📙 01. Data Wrangling notebook](notebooks/01%20-%20Data%20Wrangling.ipynb)
+* [📙 02. Exploratory Data Analysis notebook](notebooks/02%20-%20Exploratory%20Data%20Analysis.ipynb)
+* [📙 03. Model Training notebook](notebooks/03%20-%20Model%20Training.ipynb)
+* [📙 04. Model Tuning & Evaluation notebook](notebooks/04%20-%20Model%20Tuning.ipynb)
 
 ## Problem Statement
 
