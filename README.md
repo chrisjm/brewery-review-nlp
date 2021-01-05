@@ -1,10 +1,8 @@
-# Brewery Review Analysis with NLP and Named Entity Recognition (NER)
+# Brewery Review Analysis with Natural Language Processing (NLP) and Named Entity Recognition (NER)
 
 ![Brewery Review Word Cloud](reports/figures/word-cloud-beer-mug.png)
 
-## Springboard Data Science Career Track - Final Capstone Project
-
-_Cohort: March 2020_
+Springboard Data Science Career Track (_April 2020 Cohort_) - Final Capstone Project
 
 * [🖼 Slides](reports/Brewery%20Review%20NLP%20-%20Springboard%20Data%20Science%20-%20Final%20Capstone.pdf)
 * [📙 01. Data Wrangling notebook](notebooks/01%20-%20Data%20Wrangling.ipynb)
