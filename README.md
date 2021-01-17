@@ -4,7 +4,8 @@
 
 Springboard Data Science Career Track (_April 2020 Cohort_) - Final Capstone Project
 
-* [🖼 Slides](reports/Brewery%20Review%20NLP%20-%20Springboard%20Data%20Science%20-%20Final%20Capstone.pdf)
+* [🖼 Slides (PDF)](reports/Brewery%20Review%20NLP%20-%20Springboard%20Data%20Science%20-%20Final%20Capstone.pdf)
+* [📹 Video Presentation (YouTube)](https://youtu.be/04svmI8TTOY)
 * [📙 01. Data Wrangling notebook](notebooks/01%20-%20Data%20Wrangling.ipynb)
 * [📙 02. Exploratory Data Analysis notebook](notebooks/02%20-%20Exploratory%20Data%20Analysis.ipynb)
 * [📙 03. Model Training notebook](notebooks/03%20-%20Model%20Training.ipynb)
